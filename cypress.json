@@ -1,0 +1,6 @@
+{
+    "video": false,
+    "e2e": {
+        "baseUrl": "https://api.trello.com/1/actions/"
+    }
+}
