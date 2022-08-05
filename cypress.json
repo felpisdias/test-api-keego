@@ -2,5 +2,9 @@
     "video": false,
     "e2e": {
         "baseUrl": "https://api.trello.com/1/actions/"
-    }
+    },
+    "integrationFolder": ".",
+    "testFiles": [
+        "./cypress/integration/spec/GETCard.spec.js"
+    ]
 }
