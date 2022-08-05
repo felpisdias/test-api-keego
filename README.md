@@ -29,10 +29,6 @@ npm install
 Para rodar os testes, pode usar o seguinte comando.
 
 ```bash
-  npm run cypress:open
+  npm run cypress:run
 ```
-Isso irá abrir o terminal do cypress
-
-Dentro da pasta "SPEC" clique no arquivo "GETCard.spec.js"
-
-E os testes serão executados.
+Isso irá executar o teste e apresentar os resultados no mesmo no próprio console.
